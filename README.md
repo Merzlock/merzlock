@@ -2,55 +2,68 @@
 
 # Hello World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I've spent 16 years in game design and engineering, and every step has taught me something new. As a dad, I'm now using lessons I've learned to create something for the next generation, hoping they'll take it even further.
+I've walked a life of science and engineering. Every step has lead me somewhere interesting, educational, or inspirational. Now its time to make something of it all and share it with the world.
 
 ## 🔧 Technologies & Tools
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Platforms</b></summary>
   <br/><!DOCTYPE html>
 <html lang="en">
+<head>
+    <style>
+        .img-link, .img-link img {
+            text-decoration: none;
+            border: 0px;
+            outline: none;
+            border-width: 0px;
+            outline-width: 0px;
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body>
 <p align="left">
 
 <!-- Windows -->
-<a href="https://www.microsoft.com/en-us/windows/">
+<a href="https://www.microsoft.com/en-us/windows/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
 </a>
 
 <!-- Linux -->
-<a href="https://www.linux.org/">
+<a href="https://www.linux.org/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Ubuntu.svg" alt="Linux" title="Linux" width="40" height="40"/>
 </a>
 
 <!-- Android -->
-<a href="https://www.android.com/">
+<a href="https://www.android.com/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Android.svg" alt="Android" title="Android" width="40" height="40"/>
 </a>
 
 <!-- Github -->
-<a href="https://github.com/">
+<a href="https://github.com/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
 </a>
 
 <!-- Google -->
-<a href="https://www.google.com/">
+<a href="https://www.google.com/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Google.svg" alt="Google" title="Google" width="40" height="40"/>
 </a>
 
 <!-- Amazon -->
-<a href="https://www.amazon.com/">
+<a href="https://www.amazon.com/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Amazon.svg" alt="Amazon" title="Amazon" width="40" height="40"/>
 </a>
 
 <!-- Discord -->
-<a href="https://discord.com/">
+<a href="https://discord.com/" class="img-link">
     <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Discord.svg" alt="Discord" title="Discord" width="40" height="40"/>
 </a>
 
+</p>
 </body>
 </html>
-
 </details>
+
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Engines</b></summary>
