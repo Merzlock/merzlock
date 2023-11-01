@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Merzlock/Merzlock/master/readme_header2.png "Header")](https://github.com/Merzlock)
+[![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](https://github.com/Merzlock)
 
 # Hello World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
@@ -9,55 +9,42 @@ I've walked a life of science and engineering. Every step has lead me somewhere 
   <summary><b>🛠️&nbsp;&nbsp;Platforms</b></summary>
   <br/><!DOCTYPE html>
 <html lang="en">
-<head>
-    <style>
-        .img-link, .img-link img {
-            text-decoration: none;
-            border: 0px;
-            outline: none;
-            border-width: 0px;
-            outline-width: 0px;
-            border-bottom: none;
-        }
-    </style>
-</head>
-<body>
-<p align="left">
+There's a lot of great Pleatforms out there:
+<br>
 
-<!-- Windows -->
-<a href="https://www.microsoft.com/en-us/windows/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
-</a>
-
-<!-- Linux -->
-<a href="https://www.linux.org/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Ubuntu.svg" alt="Linux" title="Linux" width="40" height="40"/>
-</a>
-
-<!-- Android -->
-<a href="https://www.android.com/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Android.svg" alt="Android" title="Android" width="40" height="40"/>
-</a>
-
-<!-- Github -->
-<a href="https://github.com/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-</a>
-
-<!-- Google -->
-<a href="https://www.google.com/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Google.svg" alt="Google" title="Google" width="40" height="40"/>
-</a>
-
-<!-- Amazon -->
-<a href="https://www.amazon.com/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Amazon.svg" alt="Amazon" title="Amazon" width="40" height="40"/>
-</a>
-
-<!-- Discord -->
-<a href="https://discord.com/" class="img-link">
-    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Discord.svg" alt="Discord" title="Discord" width="40" height="40"/>
-</a>
+----------
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Windows -->
+    <td><a class="no-tufte-underline" href="https://www.microsoft.com/en-us/windows/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Windows.svg" alt="Windows" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Linux -->
+    <td><a class="no-tufte-underline" href="https://www.linux.org/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Ubuntu.svg" alt="Linux" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Android -->
+    <td><a href="https://www.android.com/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Android.svg" alt="Android" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Github -->
+    <td><a href="https://github.com/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Github.svg" alt="GitHub" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Google -->
+    <td><a href="https://www.google.com/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Google.svg" alt="Google" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Amazon -->
+    <td><a href="https://www.amazon.com/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Amazon.svg" alt="Amazon" style="width:40px;height:40px;border:0;"></a>
+    </td>
+    <!-- Discord -->
+    <td><a href="https://discord.com/">
+        <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Discord.svg" alt="Discord" style="width:40px;height:40px;border:0;"></a>
+    </td>
+  </tr>
+</table>
 
 </p>
 </body>
