@@ -38,114 +38,114 @@ I've spent 16 years in game design and engineering, and every step has taught me
 
 <!-- Windows -->
 <a href="https://www.microsoft.com/en-us/windows/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Windows.svg" alt="Windows" title="Windows" width="40" height="40"/>
 </a>
 
 <!-- Linux -->
 <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Ubuntu.svg" alt="Linux" title="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Ubuntu.svg" alt="Linux" title="Linux" width="40" height="40"/>
 </a>
 
 <!-- Android -->
 <a href="https://www.android.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Android.svg" alt="Android" title="Android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Android.svg" alt="Android" title="Android" width="40" height="40"/>
 </a>
 
 <!-- Github -->
 <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Github.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
 </a>
 
 <!-- Google -->
 <a href="https://www.google.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Google.svg" alt="Google" title="Google" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Google.svg" alt="Google" title="Google" width="40" height="40"/>
 </a>
 
 <!-- Python -->
 <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Python.svg" alt="Python" title="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Python.svg" alt="Python" title="Python" width="40" height="40"/>
 </a>
 
 <!-- JavaScript -->
 <!-- Note: JavaScript does not have an official site, but MDN is a reputable resource for JS documentation -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
 </a>
 
 <!-- Java -->
 <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Java.svg" alt="Java" title="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Java.svg" alt="Java" title="Java" width="40" height="40"/>
 </a>
 
 <!-- C# -->
 <!-- Note: Representing C# with Microsoft's official site as it's the main developer -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/C#.svg" alt="C#" title="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/C#.svg" alt="C#" title="C#" width="40" height="40"/>
 </a>
 
 <!-- Amazon -->
 <a href="https://www.amazon.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Amazon.svg" alt="Amazon" title="Amazon" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Amazon.svg" alt="Amazon" title="Amazon" width="40" height="40"/>
 </a>
 
 <!-- Git -->
 <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Git.svg" alt="Git" title="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Git.svg" alt="Git" title="Git" width="40" height="40"/>
 </a>
 
 <!-- Neo4j -->
 <a href="https://neo4j.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Neo4j.svg" alt="Neo4j" title="Neo4j" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Neo4j.svg" alt="Neo4j" title="Neo4j" width="40" height="40"/>
 </a>
 
 <!-- PostgreSQL -->
 <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
 </a>
 
 <!-- Discord -->
 <a href="https://discord.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Discord.svg" alt="Discord" title="Discord" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Discord.svg" alt="Discord" title="Discord" width="40" height="40"/>
 </a>
 
 <!-- PyCharm -->
 <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Pycharm.svg" alt="PyCharm" title="PyCharm" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Pycharm.svg" alt="PyCharm" title="PyCharm" width="40" height="40"/>
 </a>
 
 <!-- Unreal 5 -->
 <a href="https://www.unrealengine.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/Unreal.svg" alt="Unreal Engine 5" title="Unreal Engine 5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Unreal.svg" alt="Unreal Engine 5" title="Unreal Engine 5" width="40" height="40"/>
 </a>
 
 <!-- Unity -->
 <a href="https://unity.com/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Unity.svg" alt="Unity" title="Unity" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Unity.svg" alt="Unity" title="Unity" width="40" height="40"/>
 </a>
 
 <!-- GIMP -->
 <a href="https://www.gimp.org/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/GIMP.svg" alt="GIMP" title="GIMP" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/GIMP.svg" alt="GIMP" title="GIMP" width="40" height="40"/>
 </a>
 
 <!-- DaVinci Resolve -->
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Davinci.svg" alt="DaVinci Resolve" title="DaVinci Resolve" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Davinci.svg" alt="DaVinci Resolve" title="DaVinci Resolve" width="40" height="40"/>
 </a>
 
 <!-- Clip Studio Paint -->
 <a href="https://www.clipstudio.net/en">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/CSP.svg" alt="Clip Studio Paint" title="Clip Studio Paint" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/CSP.png" alt="Clip Studio Paint" title="Clip Studio Paint" width="40" height="40"/>
 </a>
 
 <!-- Oracle VM -->
 <a href="https://www.oracle.com/virtualization/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Oracle.svg" alt="Oracle VM" title="Oracle VM" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Oracle.png" alt="Oracle VM" title="Oracle VM" width="40" height="40"/>
 </a>
 
 <!-- Blender -->
 <a href="https://www.blender.org/">
-    <img src="https://raw.githubusercontent.com/Merzlock/Merzlock/master/icons/Blender.svg" alt="Blender" title="Blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Blender.svg" alt="Blender" title="Blender" width="40" height="40"/>
 </a>
 
 </body>
