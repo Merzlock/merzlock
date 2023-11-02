@@ -1,3 +1,15 @@
+<!-- Notes to self:
+I'd like to incorporate some of this SVG workaround on styling someday. Here's the link:
+https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
+I'm thinking of trying to make it entirely dynamic, just to showcase my modular design ethics. something for another day.
+
+oh, also I signed up for CodersRank but sicne I have nothing to show yet I didn't put the widget in the profile. Here's the link
+when I'm ready to find my way back there:
+https://profile.codersrank.io/user/merzlock/
+
+finally, I converted my old discord into a Merzlock account. I should probably link to it at some point... but that requires a server.
+Another task for another day.
+-->
 [![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](https://github.com/Merzlock)
 
 <p align="center">I've walked a life of science and engineering. Every step has lead me somewhere interesting, educational, or inspirational. Now its time to make something of it all and share it with the world.</p>
