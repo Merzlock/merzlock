@@ -58,7 +58,7 @@
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Java.svg" alt="Java" title="Java" style="height:40px;"></a>&emsp;
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Csharp.svg" alt="C#" title="C#" style="height:40px;"></a>&emsp;
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/HTML.svg" alt="HTML" title="HTML" style="height:40px;"></a>&emsp;
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/SSS.svg" alt="CSS" title="CSS" style="height:40px;"></a>&emsp;
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/CSS.svg" alt="CSS" title="CSS" style="height:40px;"></a>&emsp;
   <br><br>
 </details>
 
@@ -66,8 +66,8 @@
   <summary><b>🤖&nbsp;&nbsp;Artificial Intelligence Solutions</b></summary>
   <br>These are the AI solutions I work with or acknowledge:<br><br>
   <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/openai-white-logomark.svg" alt="OpenAI" title="OpenAI GPT4 & Dalle3" style="height:40px;"></a>&emsp;
-  <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Nvidea.svg" alt="Nvidea" title="Nvidea AI" style="height:40px;"></a>&emsp;
-  <a href="https://aws.amazon.com/machine-learning/ai-services/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/AWS.svg" alt="Amazon" title="Amazon AWS Machine Learning" style="height:40px;"></a>&emsp;
+  <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Nvideal.png" alt="Nvidea" title="Nvidea AI" style="height:40px;"></a>&emsp;
+  <a href="https://aws.amazon.com/machine-learning/ai-services/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/AWS.png" alt="Amazon" title="Amazon AWS Machine Learning" style="height:40px;"></a>&emsp;
   <a href="https://www.midjourney.com/home"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Midjourney.png" alt="Midjourney" title="Midjourney" style="height:40px;"></a>&emsp;
   
   <br><br>
@@ -77,13 +77,7 @@
 ## 🌌 Projects & Contributions
 
 (Yep it's pretty empty here still. Time to get to work!)
-
-
-<!-- Replace below links with your social media or omit if not necessary -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://twitter.com/Your_Twitter_Handle
-[3]: https://www.linkedin.com/in/your-linkedin-profile/
+<br><br>
 
 #### Personal Achievements
 - Reached 4th place in the [Investopedia](https://www.investopedia.com/) competition in Q3 of 2015 starting with only 23% of time remaining and achieving no recorded losses on any day.
