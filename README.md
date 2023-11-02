@@ -14,7 +14,7 @@
 
 ## 🔧 A peek inside my toolbox...
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Platforms</b></summary>
+  <summary><b>🌐&nbsp;&nbsp;Platforms</b></summary>
   <br>I am familiar with these platforms:<br><br>
   <a href="https://www.microsoft.com"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Windows.svg" alt="Windows" title="Microsoft Windows" style="height:40px;"></a>&emsp;
   <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Ubuntu.svg" alt="Linux" title="Ubuntu/Linux" style="height:40px;"></a>&emsp;
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Engines</b></summary>
+  <summary><b>⚙️&nbsp;&nbsp;Engines</b></summary>
   <br>These are the only engines I currently use:<br><br>
   <a href="https://www.unrealengine.com/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Unreal.svg" alt="Unreal Engine 5" title="Unreal Engine 5" style="height:40px;"></a>&emsp;
   <a class="no-tufte-underline" href="https://unity.com/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Unity.svg" alt="Unity" title="Unity, but I prefer Unreal" style="height:40px;"></a>&emsp;
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages</b></summary>
+  <summary><b>💬&nbsp;&nbsp;Languages</b></summary>
   <br>These are the few programming languages I know:<br><br>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Python.svg" alt="Python" title="Python" style="height:40px;"></a>&emsp;
   <a href="https://developer.mozilla.org"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Javascript.svg" alt="JavaScript" title="JavaScript" style="height:40px;"></a>&emsp;
@@ -59,6 +59,8 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Csharp.svg" alt="C#" title="C#" style="height:40px;"></a>&emsp;
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/HTML.svg" alt="HTML" title="HTML" style="height:40px;"></a>&emsp;
   <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/CSS.svg" alt="CSS" title="CSS" style="height:40px;"></a>&emsp;
+  <br><br>
+  <a href="https://github.com/Merzlock/Merzlock"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merzlock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
   <br><br>
 </details>
 
@@ -69,14 +71,12 @@
   <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Nvidia.svg" alt="Nvidia" title="Nvidia AI" style="height:40px;"></a>&emsp;
   <a href="https://aws.amazon.com/machine-learning/ai-services/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/AWS.png" alt="Amazon" title="Amazon AWS Machine Learning" style="height:40px;"></a>&emsp;
   <a href="https://www.midjourney.com/home"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Midjourney.png" alt="Midjourney" title="Midjourney" style="height:40px;"></a>&emsp;
-  
-  <br><br>
 </details>
-<br><br>
+<br>
 
 ## 🌌 Projects & Contributions
 
-(Yep it's pretty empty here still. Time to get to work!)
+This profile is still pretty new. I'll put my contributions here when I make something new!
 <br><br>
 
 #### Personal Achievements
@@ -87,19 +87,10 @@
 - Top 93 percentile in the ASVAB
   
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/merzlock/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=merzlock&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-</details>
 
-## &#x1f4c8; GitHub Statistics
+### &#x1f4c8; Charts and Statistics
 
-<a href="https://github.com/Merzlock/Merzlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merzlock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+<br>
 <a href="https://github.com/Merzlock/Merzlock">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merzlock&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Merzlock's GitHub Stats" />
 </a>
