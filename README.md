@@ -66,7 +66,7 @@
   <summary><b>🤖&nbsp;&nbsp;Artificial Intelligence Solutions</b></summary>
   <br>These are the AI solutions I work with or acknowledge:<br><br>
   <a href="https://openai.com/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/openai-white-logomark.svg" alt="OpenAI" title="OpenAI GPT4 & Dalle3" style="height:40px;"></a>&emsp;
-  <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Nvideal.png" alt="Nvidea" title="Nvidea AI" style="height:40px;"></a>&emsp;
+  <a href="https://www.nvidia.com/en-us/ai-data-science/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Nvideal.svg" alt="Nvidea" title="Nvidea AI" style="height:40px;"></a>&emsp;
   <a href="https://aws.amazon.com/machine-learning/ai-services/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/AWS.png" alt="Amazon" title="Amazon AWS Machine Learning" style="height:40px;"></a>&emsp;
   <a href="https://www.midjourney.com/home"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/Midjourney.png" alt="Midjourney" title="Midjourney" style="height:40px;"></a>&emsp;
   
