@@ -1,9 +1,7 @@
 [![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](https://github.com/Merzlock)
 
-# <p align="center">Hello World!<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></p>
-
 <p align="center">I've walked a life of science and engineering. Every step has lead me somewhere interesting, educational, or inspirational. Now its time to make something of it all and share it with the world.</p>
-
+<br><br>
 <p align="center">
   <a href="https://github.com/Merzlock"><img src="https://img.shields.io/github/followers/Merzlock?logo=GitHub&style=for-the-badge" alt="GitHub followers"></a>&nbsp; 
   <a href="https://github.com/Merzlock"><img src="https://img.shields.io/github/stars/Merzlock?logo=github&style=for-the-badge" alt="GitHub Stars"></a>&nbsp; 
