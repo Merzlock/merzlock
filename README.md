@@ -9,6 +9,22 @@ https://profile.codersrank.io/user/merzlock/
 
 finally, I converted my old discord into a Merzlock account. I should probably link to it at some point... but that requires a server.
 Another task for another day.
+
+Possibly dropping Neo4j in favor of RedisGraph. Redis in general is so lightweight and seems perfect for the UAC. REDIS GRAPH is considered end of life 2025 :( but still useful 
+REDIS LIMITATION: Can only handle 1/3 of the PC's available RAM before it slows down. also lacks security
+Picking up docker. It's too convenient not to use, seems like an excellent way to distribute the UAC across many devices.
+
+Languages:
+Python for AI
+Javascript for web
+
+Environments:
+NodeJS for backend
+ReactJS for frontend
+
+UAC:
+RedisGraph for instanced data handling
+
 -->
 [![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](https://github.com/Merzlock)
 
