@@ -26,17 +26,16 @@ UAC:
 RedisGraph for instanced data handling
 
 -->
-[![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](https://github.com/Merzlock)
+[![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](#)
 
 <p align="center">I've walked a life of science and engineering. Every step has lead me somewhere interesting, educational, or inspirational. Now its time to make something of it all and share it with the world.</p>
 <br><br>
 <p align="center">
-  <a href="https://github.com/Merzlock"><img src="https://img.shields.io/github/followers/Merzlock?logo=GitHub&style=for-the-badge" alt="GitHub followers"></a>&nbsp; 
-  <a href="https://github.com/Merzlock"><img src="https://img.shields.io/github/stars/Merzlock?logo=github&style=for-the-badge" alt="GitHub Stars"></a>&nbsp; 
+  <a href="https://github.com/Merzlock?tab=followers"><img src="https://img.shields.io/github/followers/Merzlock?logo=GitHub&style=for-the-badge" alt="GitHub followers"></a>&nbsp; 
+  <a href="https://github.com/Merzlock?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Merzlock?logo=github&style=for-the-badge" alt="GitHub Stars"></a>&nbsp; 
   <a href="https://github.com/sponsors/Merzlock"><img src="https://img.shields.io/github/sponsors/Merzlock?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github" alt="GitHub Sponsors"></a>
 </p>
 <p align="center"><a href="https://twitter.com/intent/follow?screen_name=TheMerzlock" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/TheMerzlock?style=social" alt="Follow @TheMerzlock on Twitter"></a></p>
-
 
 
 ## 🔧 A peek inside my toolbox...
@@ -87,7 +86,7 @@ RedisGraph for instanced data handling
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/HTML.svg" alt="HTML" title="HTML" style="height:40px;"></a>&emsp;
   <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/Merzlock/merzlock/master/Icons/CSS.svg" alt="CSS" title="CSS" style="height:40px;"></a>&emsp;
   <br><br>
-  <a href="https://github.com/Merzlock/Merzlock"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merzlock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
+  <a href="https://github.com/Merzlock"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merzlock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" /></a>
   <br><br>
 </details>
 
@@ -113,13 +112,10 @@ This profile is still pretty new. I'll put my contributions here when I make som
 - Scored a perfect entrance exam in my local military academy.
 - Top 93 percentile in the ASVAB
   
-
-
 ### &#x1f4c8; Charts and Statistics
 
 <br>
-<a href="https://github.com/Merzlock/Merzlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Merzlock&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Merzlock's GitHub Stats" />
-</a>
+<a href="https://github.com/Merzlock?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Merzlock&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Merzlock's GitHub Stats" /></a>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=merzlock)
+<a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=merzlock" alt="Visitors" /></a>
+
