@@ -29,13 +29,13 @@ RedisGraph for instanced data handling
 [![Header](https://raw.githubusercontent.com/Merzlock/merzlock/master/Images/readme_header2.png "Header")](#)
 
 <p align="center">I've walked a life of science and engineering. Every step has lead me somewhere interesting, educational, or inspirational. Now its time to make something of it all and share it with the world.</p>
-<br><br>
+<br>
 <p align="center">
   <a href="https://github.com/Merzlock?tab=followers"><img src="https://img.shields.io/github/followers/Merzlock?logo=GitHub&style=for-the-badge" alt="GitHub followers"></a>&nbsp; 
   <a href="https://github.com/Merzlock?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Merzlock?logo=github&style=for-the-badge" alt="GitHub Stars"></a>&nbsp; 
   <a href="https://github.com/sponsors/Merzlock"><img src="https://img.shields.io/github/sponsors/Merzlock?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github" alt="GitHub Sponsors"></a>
 </p>
-<p align="center"><a href="https://twitter.com/intent/follow?screen_name=TheMerzlock" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/TheMerzlock?style=social" alt="Follow @TheMerzlock on Twitter"></a></p>
+<p align="center"><a href="https://twitter.com/intent/follow?screen_name=TheMerzlock" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/TheMerzlock?style=social" alt="Follow @TheMerzlock on Twitter"></a></p><br>
 
 
 ## 🔧 A peek inside my toolbox...
